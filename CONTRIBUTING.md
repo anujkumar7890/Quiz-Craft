@@ -1,6 +1,6 @@
 
 
-# Contributing to Quizzify
+# Contributing to Quizz Craft
 
 🎉 Thank you for your interest in contributing to Quizz Craft! 🎉
 
