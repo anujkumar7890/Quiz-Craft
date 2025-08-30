@@ -30,7 +30,7 @@ Handles PDF file drag-and-drop, extraction of text from PDFs (using [pdf.js](htt
 ```mermaid
 flowchart TD
     A[User drags PDF] -->|drop| B[Read file into input#pdf]
-    B --> C[Update UI: "PDF Selected"]
+    B --> C[Update UI: PDF Selected]
     C --> D[Extract pages range from user]
     D --> E[Use pdf.js to extract text from PDF]
     E --> F{Extraction Success?}
