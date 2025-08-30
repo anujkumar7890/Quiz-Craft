@@ -18,7 +18,7 @@ We welcome suggestions for new features! Feel free to open an issue on the [GitH
 
 ### Contributing Code
 
-1. Fork the repository: [https://github.com/your-username/quizzify/fork](https://github.com/anujkumar7890/Quiz-Craft.git)
+1. Fork the repository: [https://github.com/anujkumar7890/Quiz-Craft/fork](https://github.com/anujkumar7890/Quiz-Craft.git)
 
 2. Clone your fork locally:
    ```bash
